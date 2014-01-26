@@ -1,0 +1,35 @@
+html,
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    height: 100%;
+}
+
+.error {
+    color: red;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+.jumbotron {
+    padding: 160px;
+}
+.jumbotron h2 {
+    text-align: center;
+    font-weight: normal;
+}
+#team h2 {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+#team h3 {
+    text-align: center;
+    font-weight: normal;
+}
+
+#team img {
+    margin: 0 auto;
+    display: block;
+}
