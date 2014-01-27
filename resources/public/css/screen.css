@@ -18,6 +18,11 @@ body {
     text-align: center;
     font-weight: normal;
 }
+
+#team {
+  padding-bottom: 40px;
+}
+
 #team h2 {
     text-align: center;
     font-weight: normal;
@@ -33,34 +38,37 @@ body {
     margin: 0 auto;
     display: block;
 }
-#contact h2{
+
+#contact {
+  padding: 40px 0;
+  background-color: #eee;
+}
+
+#contact h2 {
     text-align: center;
     font-weight: normal;
-    margin-top: 120px;
 }
-#contact h3{
-    text-align: center;
-    font-weight: normal;
-    line-height: 0px;
-    margin-top: 30px;
+
+#contact p {
+  text-align: center;
+  margin: 0;
 }
+
 #contact_form .form-group {
     text-align: center;
     margin-top: 30px;
 }
+
+#contact textarea {
+  resize: none;
+  margin-bottom: 20px;
+}
+
 #contact_form .form-group input {
     width: 500px;
     margin: 0 auto;
 }
-#contact_form .form-group-description {
-    text-align: center;
-    margin-top: 30px;
-}
-#contact_form .form-group-description input {
-    width: 500px;
-    margin: 0 auto;
-    height: 150px;
-}
+
 #contact_form button {
     width: 500px;
     margin: 0 auto;
