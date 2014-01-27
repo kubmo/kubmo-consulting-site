@@ -1,6 +1,6 @@
 # kubmo-consulting-site
 
-FIXME
+This is the Kubmo consulting site. Please visit www.consulting.kubmo.org for more information! 
 
 ## Prerequisites
 
