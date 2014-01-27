@@ -1,6 +1,6 @@
 # kubmo-consulting-site
 
-This is the Kubmo consulting site. Please visit www.consulting.kubmo.org for more information! 
+This is the Kubmo consulting site. Please visit http://consulting.kubmo.org for more information! 
 
 ## Prerequisites
 
